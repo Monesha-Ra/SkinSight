@@ -1,2 +1,12 @@
 node_modules
 .env
+.env 
+# Ignore Python virtual environments
+venv/
+tensorflow_env/
+
+# Ignore system-specific files
+*.dll
+*.pyd
+skinsightapp/backend/tensorflow_env/
+skinsightapp/backend/models/my_model.h5
