@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "5666d6bf-c435-4181-96f4-4dd8de78cdb9"
+      }
+    },
+    "android": {
+      "package": "monesha.skinsight"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
