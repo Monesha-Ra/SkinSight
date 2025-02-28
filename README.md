@@ -11,7 +11,7 @@ SkinSight is a mobile application that helps users diagnose skin conditions, tra
 
 ## TECH STACK
 ### **Frontend (React Native)**
-- **React Native ** 
+- **React Native** 
 
 ### **Backend (Flask & MySQL)**
 - **Flask** for API development
